@@ -1,1 +1,1 @@
-# tluu
+This is a simple Rock Paper Scissors game built using Python. The game logic is implemented using conditional statements (if, elif, else) and originated using methods (functions) to keep the code clean and modular.
